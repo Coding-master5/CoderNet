@@ -4,3 +4,9 @@ body {
   color:#0f0;
   background:#000;
 }
+button {
+  color:#0f0;
+  font-family:monospace;
+  background:transparent;
+  border:3px solid #0f0;
+}
